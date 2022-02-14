@@ -15,7 +15,7 @@ public class BackendHandler : MonoBehaviour
     //const string urlBackendHighScoresFile = "http://localhost/gamewithphpbackend/api/v1/highscores.json";
     const string urlBackendHighScores = "http://localhost/gamewithphpbackend/api/v1/highscores.php";
     
-    const string urlBackendHighScoresFile = "http://172.30.139.32/php-game/api/v1/highscores.json";
+    const string urlBackendHighScoresFile = "http://172.30.139.32/php-game/api/v1/highscores.json"; //Address for virtual machine that is running the highscore database
     //const string urlBackendHighScores = "http://172.30.139.32/php-game/api/v1/HighScores.php";
 
 
