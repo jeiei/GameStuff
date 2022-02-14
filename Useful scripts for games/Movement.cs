@@ -18,7 +18,7 @@ public class Movement : MonoBehaviour
         
     }
 
-    // Update is called once per frame
+    // Movement for a 2D game with footsteps added
     void Update()
     {
         
